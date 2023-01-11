@@ -2,7 +2,7 @@
   <header>
     <meta http-equiv="refresh" content="10">
   </header>
-<body>
+<body background=black color=white>
 <center>
 <a href="#">Refresh</a><br>  
 <font size=60>
